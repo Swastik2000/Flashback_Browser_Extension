@@ -10,7 +10,10 @@ A web browser extension for representing your work done on a weekly basis so tha
 
 
 ## Features
-
+* It also helps to look back on your previous week's learning and the issues which still need to be resolved. 
+* Synced with cloud, a user can access the data through web browser, through an app as well as through VS code extension making the data available within a fraction of time. 
+* Voice dictation using google speech to text, so that a user can store ideas or issues on the go. 
+* With the help of VS code extension it Tracks the coding time and code reading of the user and virtualises it, compares between time and code written to produce efficiency.
 ### Current
 
 Contains all issues/tasks for current week as reflected in the header, e.g. `28 Mar - 4 April`. Dates of the current week are automatically updated as a new week starts, and the old week is automatically reflected as `Previous Week` in the Previous tab. Hence, this should always be the primary list to edit.
@@ -52,12 +55,21 @@ Voice dictation, a reminder at a particular time(defined by the user), See and a
 
 
 # 5. Challenges we ran into
+Without facing and overcoming challenges, it is impossible to make victory.
+
+1. We believe we managed to come up with a good executable idea and solution within
+the time given to us.
+
+2. We ultimately found a good and steady workflow. The time constraints were also
+challenging, but we set achievable goals and accomplished all of what we set out to.
+
+3. It was all of our first times using chrome storage API, and we were also generally
+relatively new to React Contexts as a whole, so we took help from stackoverflow and other websites to hunt down the bugs.
 
 
-# 6. Accomplishments that we're proud of
 
 
-# 7. Built With
+# 6. Built With
 
 ● bootstrap
 ● CSS
