@@ -1,0 +1,17 @@
+{
+  "greeting": {
+    "message": "Hello, World!"
+  },
+  "appName": {
+    "message": "Flashback",
+    "description": "Built for Students and employees"
+  },
+  "appShortName": {
+    "message": "Flashback",
+    "description": "Built for Students and employees"
+  },
+  "appDesc": {
+    "message": "web-browser extension",
+    "description": "A web-browser extension for representing your work done on a weekly basis so that you can find your work, stay more productive and understand your shortcomings in journey of learning about new Tech Stack or working on an exsisting project. It also helps to look back to your previous week learning and the issues which still needs to be resolved."
+  }
+}
